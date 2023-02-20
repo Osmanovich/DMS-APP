@@ -1,7 +1,4 @@
 import styles from './App.module.scss';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Home from './Home';
-import Welcome from './Welcome';
 import {Input} from 'antd';
 import { getFiles } from './services/sharepoint.service';
 
